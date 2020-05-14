@@ -20,7 +20,8 @@ It is imperative you read this entire document before beginning this project.
 2. **Mossberg 500 compatible stock/pistol-grip** - You can use any Mossberg 500 compatible stock, brace, pistol, or birdshead grip. _Remember not to make an NFA configuration unless you are legally allowed to do so._
 3. **AR-15 Lower Parts Kit** - A lower parts kit of your choosing will do. Mil-spec is the minimum.
 4. **AR-15 Fire Control Group** - You will need a _mil-spec_ AR-15 fire control group. (Sorry, no drop-in triggers!)
-5. **x1 M3 x 0.5mm 8mm long Socket Head Screw** - You can find this from McMasterCarr with part number 91290A113. (You can get by without this, but your detent will be loose for your rear takedown.)
+5. **x1 M3 x 0.5mm Thread, 8mm long, Socket Head Screw** - You can find this from McMasterCarr with part number 91290A113. (You can get by without this, but your detent will be loose for your rear takedown.)
+6. **x1 M8 x 1.25 mm Thread, 90 mm long, Socket Head Screw** - (_Optional_) This is only needed if you plan to print the included birdshead grip.
 
 You may find that a set of files will come in handy for your specific print's fitment.
 
