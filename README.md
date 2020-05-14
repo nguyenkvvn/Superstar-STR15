@@ -3,7 +3,9 @@ by nguyenkvvn
 
 > _"Long ago... and oh so far away..."_
 
-Private Beta Release 0.01 - Internal Revision v35
+Private Beta Release 0.02
+    Frame - Internal Revision v35
+    Grip - Internal Revision v12
 
 ## Description
 The Groupie STR-15 is an AR-15 lower receiver designed exclusively for buffer-less upper receiver actions, and uses any Mossberg 500-series compatible stock/pistol-grip attachment.
@@ -18,14 +20,14 @@ It is imperative you read this entire document before beginning this project.
 2. **Mossberg 500 compatible stock/pistol-grip** - You can use any Mossberg 500 compatible stock, brace, pistol, or birdshead grip. _Remember not to make an NFA configuration unless you are legally allowed to do so._
 3. **AR-15 Lower Parts Kit** - A lower parts kit of your choosing will do. Mil-spec is the minimum.
 4. **AR-15 Fire Control Group** - You will need a _mil-spec_ AR-15 fire control group. (Sorry, no drop-in triggers!)
-5. **x1 M3 x 0.5mm 8mm long Socket Head Screw** - You can find this from McMasterCarr with part number 91290A113. (You can get by without this.)
+5. **x1 M3 x 0.5mm 8mm long Socket Head Screw** - You can find this from McMasterCarr with part number 91290A113. (You can get by without this, but your detent will be loose for your rear takedown.)
 
 You may find that a set of files will come in handy for your specific print's fitment.
 
 ## Instructions
 1. Print the receiver.
 2. Print the desired trigger bow. (You can print either straight-bow or curved-bow trigger.)
-3. Complete the receiver with the lower parts kit.
+3. Complete the receiver with the lower parts kit. You might need a conical file to enlarge the hole as necessary on both the receiver and the trigger, but only ever so slightly.
 4. Test the fitment of the printed trigger bow. (Make sure you can put it in and out of the receiver easily!) If the fitment is successful, assemble the fire control group with the appropriate springs. Set aside the mil-spec trigger- it won't be used for this build (yet).
 5. Test the fitment of the fire selector. File the receiver as necessary for a snug, but not overly tight, fit.
 6. Assemble the rest of the receiver with the fire control group. Be careful not to drop the hammer onto the frame.
@@ -33,8 +35,18 @@ You may find that a set of files will come in handy for your specific print's fi
 8. Assemble the upper receiver onto the lower, and perform another function check.
 
 ## Printing Tips
-* It is recommended to print the receiver _upside-down_.
+* It is recommended to print the receiver _upside-down_. (That is, the space where the upper receiver would go is against the build plate.)
 * Tree supports are _not_ recommended if printing upside-down.
 * eSUN PLA+ is the _required_ filament if you are using any caliber that is NOT a .22LR.
-* It's recommended to print the trigger upside-down with the bow pointing up, as it will reduce the chances of the sides of your trigger snapping off when taking off the plate.
+* You must print the trigger on the side for maximum bonding and strength.
 * Print HOT and SLOW for maximum bonding and strength. (50 mm/s and 230 C is recommended.)
+
+## Changelog
+* Private Beta v0.01
+> - Initial test model.
+
+* Private Beta v0.02
+> - Inclusion of birdshead pistol grip
+> - Amended README.md to remove incorrect instructions
+> - Shape of M500 mount is revised to accomodate OEM Mossberg 500/Maverick 88 polymer stocks
+> - Errant fitment issue resolved by offsetting the face against the rear of the upper receiver. (This was splitting the front takedown pin hole.)
