@@ -8,7 +8,7 @@ Private Beta Release 0.02
     Grip - Internal Revision v12
 
 ## Description
-The Groupie STR-15 is an AR-15 lower receiver designed exclusively for buffer-less upper receiver actions, and uses any Mossberg 500-series compatible stock/pistol-grip attachment.
+The Groupie STR-15 is an AR-15 lower receiver designed exclusively for buffer-less upper receiver actions, and uses any Mossberg 500-series compatible stock/pistol-grip attachment. It is based off the Disruptive Solutions AR-15 lower (untested) and includes revisions for fitment and ease of installation.
 
 ## WARNING!
 Do *NOT* under any circumstance use this design with ANY upper receiver that requires a buffer tube. Catastrophic, and FATAL, damage *WILL* occur. The designer, and any affiliated or non-affiliated groups, cannot be held responsible or liable for any injuries or damages that occur with your use of this model.
@@ -51,3 +51,7 @@ You may find that a set of files will come in handy for your specific print's fi
 > - Amended README.md to remove incorrect instructions
 > - Shape of M500 mount is revised to accomodate OEM Mossberg 500/Maverick 88 polymer stocks
 > - Errant fitment issue resolved by offsetting the face against the rear of the upper receiver. (This was splitting the front takedown pin hole.)
+
+* Private Beta v0.03
+> - Revised trigger guard extrusion to reflect updated mounting assembly
+> - Revised birdshead grip for updated mounting assembly
