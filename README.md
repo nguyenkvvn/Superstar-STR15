@@ -4,7 +4,7 @@ by nguyenkvvn
 > _"Long ago... and oh so far away..."_
 
 Private Beta Release 0.02
-    Frame - Internal Revision v35
+    Frame - Internal Revision v55
     Grip - Internal Revision v12
 
 ## Description
@@ -34,6 +34,12 @@ You may find that a set of files will come in handy for your specific print's fi
 6. Assemble the rest of the receiver with the fire control group. Be careful not to drop the hammer onto the frame.
 7. Perform a function test of the fire control group- does the hammer drop? Does the disconnector work? What about the safety?
 8. Assemble the upper receiver onto the lower, and perform another function check.
+
+## Instructions for the Epoxy Trigger  
+1. Print the epoxy trigger.
+2. Cut off and sand FLUSH the trigger bow of a mil-spec AR-15 trigger.
+3. Test fitment of the epoxy trigger mate onto the AR-15 trigger.
+4. If fitment is successful, use epoxy to bond the parts. Bind the parts in a vice, and leave to cure overnight.
 
 ## Printing Tips
 * It is recommended to print the receiver _upside-down_. (That is, the space where the upper receiver would go is against the build plate.)
