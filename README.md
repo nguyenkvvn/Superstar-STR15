@@ -3,8 +3,8 @@ by nguyenkvvn
 
 > _"Long ago... and oh so far away..."_
 
-Private Beta Release 0.02
-    Frame - Internal Revision v55
+Private Beta Release 0.05
+    Frame - Internal Revision v56
     Grip - Internal Revision v12
 
 ## Description
@@ -61,3 +61,10 @@ You may find that a set of files will come in handy for your specific print's fi
 * Private Beta v0.03
 > - Revised trigger guard extrusion to reflect updated mounting assembly
 > - Revised birdshead grip for updated mounting assembly
+
+* Private Beta v0.04
+> - Update to trigger bows
+> - Inclusion of epoxy trigger option
+
+* Private Beta v0.05
+> - Removed legacy selector detent in fire control pocket
