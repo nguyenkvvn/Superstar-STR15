@@ -3,9 +3,9 @@ by nguyenkvvn
 
 > _"Long ago... and oh so far away..."_
 
-Private Beta Release 0.05
-    Frame - Internal Revision v56
-    Grip - Internal Revision v13
+Public Release v1.0
+ *   Frame - Internal Revision v56
+ *   Grip - Internal Revision v13
 
 ## Description
 The Groupie STR-15 is an AR-15 lower receiver designed exclusively for buffer-less upper receiver actions, and uses any Mossberg 500-series compatible stock/pistol-grip attachment. It is based off the Disruptive Solutions AR-15 lower (untested) and includes revisions for fitment and ease of installation.
